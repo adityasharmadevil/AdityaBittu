@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AdityaBittu
+- 👋 Hi, I’m Aditya Sharma
 - 👀 I’m interested in making Websites 
-- 🌱 I’m currently learning Blockchain Security System
+- 🌱 I’m currently learning Blockchain Security System and Cryptography using Java
 - 💞️ I’m looking to collaborate on making Websites & Pc
 - 📫 How to reach me adityasasni@gmail.com
 
